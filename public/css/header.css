@@ -1,0 +1,63 @@
+*{margin:0px;padding:0px;}
+a{text-decoration:none;font-family: arial,"Lantinghei SC","Microsoft Yahei";color:#000;}
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+li{list-style: none;}
+/*top*/
+.top-1{width:1200px;height:35px;margin:auto;}
+.top-left{width:150px;height:35px;margin-left:21px;margin-top:4px;position: relative;}
+.top-left>div>a{color:black;font-size:14px;}
+.top-left>div:nth-child(1){padding-right:3px;}
+.top-right{width:325px;height:35px;margin-top:4px;margin-right:40px;position: relative;}
+.top-right>div>a{color:black;font-size:14px;padding-left:12px;}
+.top-right>div>a>i{padding-right:3px;}
+/*nav*/
+.nav1{width:1000px;height:90px;margin:auto !important;}
+.nav1-img{width:200px;height:90px;margin-left:-55px;}
+.nav1-search{width:680px;height:90px;margin:-80px auto;}
+.nav1-search>input:nth-child(1){width:524.8px;height:46px;line-height:46px;margin:20px 10px;border:2px solid rgb(240,21,41);outline:0px;}
+.nav1-search>input:nth-child(2){width:131px;height:46px;line-height:46px;background:rgb(240,21,41);color:#fff;text-align:center;
+border:2px solid rgb(240,21,41);margin-left:-15px;}
+
+.shop-nav{width:1200px;height:45px;margin:auto;padding-top:5px;}
+.nav-title{display:inline-block;width:180px;height:45px;background:#d2364c;color:#fff;line-height:45px;
+text-align:center;margin-left:-40px;}
+.nav-choose>div{font-weight:bold;text-align:center;padding:0px 28px;margin:8px 0;border-left:2px solid #D9D9D9;}
+.nav-choose>div:nth-child(6),.nav-choose>div:nth-child(7){border:0px;}
+.nav-choose>div:nth-child(7){display:inline-block;width:40px;height:40x;font-size:20px;border-radius:40px;
+background:#000;color:#fff;line-height:40px;padding-left:13px;margin-top:4px;}
+.nav-choose>div:nth-child(6){display:inline-block;width:160px;height:33px;color:#FCFF00;background:#E53F53;line-height:33px;}
+.nav-choose>b{display: block;width:100%;height:4px;border-bottom:4px solid #d2364c;position: absolute;top: 174px;left:0px;z-index: 5;}
+
+
+.header-login{
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+.header-register{
+  position:absolute;
+  top:0px;
+  left:140px;
+}
+.top-right>div:nth-child(1){
+  position:relative;
+  top:0px;
+  left:860px;
+}
+.top-right>div:nth-child(2){
+  position:relative;
+  top:0px;
+  left:860px;
+}
+.top-right>div:nth-child(3){
+  position:relative;
+  top:0px;
+  left:860px;
+}
+.top-right>div:nth-child(4){
+  position:relative;
+  top:0px;
+  left:860px;
+}
